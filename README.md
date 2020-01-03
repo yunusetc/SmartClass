@@ -1,5 +1,5 @@
 # SmartClass
-##Yazılım Sınama Dersi Projesi
+## Yazılım Sınama Dersi Projesi
 
 Bu proje bir okulda kullanılmak üzere düşünülmüş bir c# projesidir. Öğrencilerin test çözüp eksiklerini gidermesi için oluşturulmuştur. 
 
