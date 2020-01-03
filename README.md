@@ -9,6 +9,8 @@ Veritabanı MSSQL kullanılmıştır.
 
 ### Ekran Görüntüleri
 
+<br/>
+
 ![1](https://github.com/yunusetc/SmartClass/blob/master/screenshots/1.PNG)
 ![2](https://github.com/yunusetc/SmartClass/blob/master/screenshots/2.PNG)
 ![3](https://github.com/yunusetc/SmartClass/blob/master/screenshots/3.PNG)
@@ -17,8 +19,9 @@ Veritabanı MSSQL kullanılmıştır.
 ![6](https://github.com/yunusetc/SmartClass/blob/master/screenshots/6.PNG)
 ![7](https://github.com/yunusetc/SmartClass/blob/master/screenshots/7.PNG)
 ![8](https://github.com/yunusetc/SmartClass/blob/master/screenshots/8.PNG)
-![9](https://github.com/yunusetc/SmartClass/blob/master/screenshots/9.PNG)
 
+<br/>
+<br/>
 
 Yunus Emre Etcibaşı
 
